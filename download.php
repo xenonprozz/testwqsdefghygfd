@@ -64,10 +64,10 @@
 
 <html>
 	<head>
-		<title>Download expired</title>
+		<title>This token has been expired!</title>
 	</head>
 	<body>
-		<h1>Download expired</h1>
+		<h1>Token expired! Please contact "WarHound" on LeakForums</h1>
 	</body>
 </html>
 
